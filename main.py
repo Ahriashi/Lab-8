@@ -28,4 +28,4 @@ while len(bag) > 0:
     logging.info("number %d", draw)
     # убираем бочонок из мешка
     bag.remove(draw)
-    logging.info("Programms end")
+logging.info("Programms end")
